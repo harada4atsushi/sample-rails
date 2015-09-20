@@ -47,3 +47,5 @@ group :development, :test do
   gem 'pry-doc'
   gem 'pry-stack_explorer'
 end
+
+gem 'batch_scaffold', github: 'harada4atsushi/batch_scaffold'
