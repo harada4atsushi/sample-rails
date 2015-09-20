@@ -1,6 +1,5 @@
-GIT
-  remote: git://github.com/harada4atsushi/batch_scaffold.git
-  revision: 5236264e3b32ab812eb384c1a095290ad89dcb78
+PATH
+  remote: /Users/haradaatsushi/source/batch_scaffold
   specs:
     batch_scaffold (0.1.0)
 

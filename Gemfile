@@ -48,4 +48,5 @@ group :development, :test do
   gem 'pry-stack_explorer'
 end
 
-gem 'batch_scaffold', github: 'harada4atsushi/batch_scaffold'
+#gem 'batch_scaffold', github: 'harada4atsushi/batch_scaffold'
+gem 'batch_scaffold', path: '/Users/haradaatsushi/source/batch_scaffold'
